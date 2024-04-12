@@ -1,4 +1,4 @@
-# FR-Head
+# TD-FCH
 This repo is the official implementation for [Discriminative Temporal Features for Skeleton-Based Action Recognition]
 
 ## Architecture
